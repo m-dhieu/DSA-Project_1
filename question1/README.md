@@ -48,7 +48,7 @@ The program must be run from the directory containing `orders.txt`.
 
 ## Expected Output
 
-![Expected Output](output.jpg)
+![Expected Output](output.png)
 
 ## Implementation Details
 
