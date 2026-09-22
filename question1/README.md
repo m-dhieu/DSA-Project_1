@@ -35,7 +35,8 @@ Orders are sorted by:
 Using GCC on Linux or macOS:
 
 ```bash
-gcc -Wall -Wextra -std=c11 main.c -o order_priority ./order_priority
+gcc -Wall -Wextra -std=c11 main.c -o order_priority
+./order_priority
 ```
 
 Using MinGW on Windows:
